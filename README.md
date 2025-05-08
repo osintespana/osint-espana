@@ -1,9 +1,17 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src="assets/logo_profile.png" width="300px" alt="OSINT España"></a>
+  <a href="#"><img src="assets/logo_profile.png" width="400px" alt="OSINT España"></a>
 </h1>
 
 <h4 align="center">OSINT (Open-source intelligence)</h4>
+<p align="center">
+<a href="https://github.com/osintespana/osint-espana/blob/main/LICENSE"><img src="https://img.shields.io/github/license/osintespana/osint-espana?color=blue"></a>
+<a href="https://github.com/osintespana/osint-espana/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/osintespana/osint-espana"></a>
+<a href="https://github.com/osintespana/osint-espana/issues"><img src="https://img.shields.io/github/issues-raw/osintespana/osint-espana"></a>
+<a href="https://github.com/osintespana/osint-espana/discussions"><img src="https://img.shields.io/github/discussions/osintespana/osint-espana"></a>
+<a href="https://github.com/osintespana/osint-espana/network/members"><img src="https://img.shields.io/github/forks/osintespana/osint-espana"></a>
+<img src="https://img.shields.io/github/stars/osintespana/osint-espana.svg?style=social" title="Stars" /> 
+</p>
 
 # OSINT España
 
@@ -229,7 +237,7 @@ Repositorio creado con el objetivo de recopilar información, fuentes (sitios we
 ---
 
 
-## 📦 Dominios `.es` por Categoría 
+## Dominios .es por Categoría 
 
 | Categoría         | Sufijo         | Descripción                                                                 | Ejemplo                                |
 |------------------|----------------|-----------------------------------------------------------------------------|----------------------------------------|
