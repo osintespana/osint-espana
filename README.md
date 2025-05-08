@@ -417,11 +417,10 @@ https://www.melilla.es/melilla/portal.do?IDM=77
 ## Contribuciones ✨ <a name="contribuciones"></a>
 ¡Contribuciones de cualquier tipo son bienvenidas!
 
-<!--
 <a href="https://github.com/osintespana/osint-espana/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=osintespana/osint-espana&max=500" alt="Lista de colaboradores" width="100%"/>
+  <img src="https://contributors-img.web.app/image?repo=osintespana/osint-espana&max=100" alt="Lista de colaboradores" width="5%"/>
 </a>
--->
+
 
 ##### [![](https://img.shields.io/badge/Voltar-%C3%8Dndice-blue?style=plastic&logo=Acclaim)](##indice) 
 
